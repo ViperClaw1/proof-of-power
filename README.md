@@ -138,15 +138,15 @@ Build 2–3 reference cards: [Name], [Title] — [Company] · [one-line context]
 - Buttons/contact: Book time · jackson@ambitiouslabs.io · ambitiouslabs.io
 - Logo + rocket accent.
 
-This project was built with [Lovable](https://lovable.dev).
+This project was built with an AI-assisted web app builder.
 
-## Build with Lovable
+## Build with AI
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/6708e93e-6d4d-4d6a-9fbd-cbd36d0f8926).
+Continue developing this project in your AI-assisted editor of choice.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+- **Ship faster**: describe what you want to build and the AI handles the code.
+- **Stay in sync**: every change made in the editor is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes are in place, ready for your next prompt.
 
 ## Development
 
